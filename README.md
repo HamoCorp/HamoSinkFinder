@@ -1,0 +1,2 @@
+# HamoSinkFinder
+XSS finder
