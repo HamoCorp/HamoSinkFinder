@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "Hamo Sink finder",
+  "version": "1.0.0",
+  "description": "Passive XSS-sink instrumentation & breakpoints for authorized testing.",
+  "permissions": ["storage", "activeTab", "scripting"],
+  "host_permissions": ["<all_urls>"],
+  "action": {
+    "default_title": "Hamo Sink finder",
+    "default_popup": "popup.html",
+      "default_icon": {
+        "16": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png"
+    }
+  },
+    "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+}
